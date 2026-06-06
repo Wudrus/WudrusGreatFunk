@@ -16,7 +16,7 @@ td {text-align:center;vertical-align:middle}
 	</tr>
 	<tr>
 		<td rowspan=3>Bullet HUSTLE</td>
-		<td>[K]:<audio controls><source src="Bullet HUSTLE [K].wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="Bullet HUSTLE [T].wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="Bullet HUSTLE [Mixed].wav" type="audio/wav"></audio></td>
+		<td>[K]:<audio controls><source src="bullet-hustle-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="bullet-hustle-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="bullet-hustle-m.wav" type="audio/wav"></audio></td>
 		<td>Нео<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
 	</tr>
 </table>
