@@ -34,4 +34,14 @@ td {text-align:center;vertical-align:middle}
 		<td><audio controls><source src="killing-drive-remix.wav" type="audio/wav"></audio></td>
 		<td>Боксер<br>Лохотрон</td>
 	</tr>
+	<tr>
+		<td>Hoverkinesis</td>
+		<td>[K]:<audio controls><source src="hoverkinesis-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="hoverkinesis-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="hoverkinesis-m.wav" type="audio/wav"></audio></td>
+		<td>Вудрус<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
+	</tr>
+	<tr>
+		<td>Hoverkinesis Quasarshok Mix</td>
+		<td><audio controls><source src="hoverkinesis-remix.wav" type="audio/wav"></audio></td>
+		<td>Вудрус<br>Лохотрон</td>
+	</tr>
 </table>
