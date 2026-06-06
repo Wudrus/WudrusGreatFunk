@@ -15,7 +15,7 @@ td {text-align:center;vertical-align:middle}
 		<th>Певцы</th>
 	</tr>
 	<tr>
-		<td>Bullet HUSTLE</td>
+		<td rows>Bullet HUSTLE</td>
 		<td>[K]:<audio controls><source src="bullet-hustle-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="bullet-hustle-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="bullet-hustle-m.wav" type="audio/wav"></audio></td>
 		<td>Нео<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
 	</tr>
@@ -23,5 +23,15 @@ td {text-align:center;vertical-align:middle}
 		<td>Bullet HUSTLE Bladebreak Mix</td>
 		<td><audio controls><source src="bullet-hustle-remix.wav" type="audio/wav"></audio></td>
 		<td>Нео<br>Лохотрон</td>
+	</tr>
+	<tr>
+		<td>Killing Drive</td>
+		<td>[K]:<audio controls><source src="killing-drive-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="killing-drive-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="killing-drive-m.wav" type="audio/wav"></audio></td>
+		<td>Боксер<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
+	</tr>
+	<tr>
+		<td>Killing Drive Olethros Mix</td>
+		<td><audio controls><source src="killing-drive-remix.wav" type="audio/wav"></audio></td>
+		<td>Боксер<br>Лохотрон</td>
 	</tr>
 </table>
