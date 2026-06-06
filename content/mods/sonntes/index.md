@@ -15,8 +15,13 @@ td {text-align:center;vertical-align:middle}
 		<th>Певцы</th>
 	</tr>
 	<tr>
-		<td rowspan=3>Bullet HUSTLE</td>
+		<td>Bullet HUSTLE</td>
 		<td>[K]:<audio controls><source src="bullet-hustle-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="bullet-hustle-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="bullet-hustle-m.wav" type="audio/wav"></audio></td>
 		<td>Нео<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
+	</tr>
+	<tr>
+		<td>Bullet HUSTLE Bladebreak Mix</td>
+		<td><audio controls><source src="bullet-hustle-remix.wav" type="audio/wav"></audio></td>
+		<td>Нео<br>Лохотрон</td>
 	</tr>
 </table>
