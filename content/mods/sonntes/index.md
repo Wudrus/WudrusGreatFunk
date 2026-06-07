@@ -49,4 +49,9 @@ td {text-align:center;vertical-align:middle}
 		<td>[K]:<audio controls><source src="caustic-toxic-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="caustic-toxic-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="caustic-toxic-m.wav" type="audio/wav"></audio></td>
 		<td>Уголь<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
 	</tr>
+	<tr>
+		<td>Sakuramin`yo</td>
+		<td>[K]:<audio controls><source src="sakura-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="sakura-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="sakura-m.wav" type="audio/wav"></audio></td>
+		<td>Рэйвен<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
+	</tr>
 </table>
