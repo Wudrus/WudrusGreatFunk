@@ -54,4 +54,9 @@ td {text-align:center;vertical-align:middle}
 		<td>[K]:<audio controls><source src="sakura-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="sakura-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="sakura-m.wav" type="audio/wav"></audio></td>
 		<td>Рэйвен<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
 	</tr>
+	<tr>
+		<td>Vermillion Shard</td>
+		<td>[K]:<audio controls><source src="vermillion-shard-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="vermillion-shard-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="vermillion-shard-m.wav" type="audio/wav"></audio></td>
+		<td>Некий господин с именем на "С"<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)<br>Нео (K и Mixed)<br>Вудрус (T и Mixed)<br>Боксер (K и Mixed)<br>Рэйвен (T и Mixed)<br>Уголь (K и Mixed)<br>Лохотрон (T и Mixed)</td>
+	</tr>
 </table>
