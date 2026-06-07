@@ -12,7 +12,7 @@ td {text-align:center;vertical-align:middle}
 	<tr>
 		<th>Песня</th>
 		<th style="width:500px">Аудио</th>
-		<th>Певцы</th>
+		<th style="width:200px">Певцы</th>
 	</tr>
 	<tr>
 		<td rows>Bullet HUSTLE</td>
@@ -58,5 +58,10 @@ td {text-align:center;vertical-align:middle}
 		<td>Vermillion Shard</td>
 		<td>[K]:<audio controls><source src="vermillion-shard-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="vermillion-shard-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="vermillion-shard-m.wav" type="audio/wav"></audio></td>
 		<td>Некий господин с именем на "С"<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)<br>Нео (K и Mixed)<br>Вудрус (T и Mixed)<br>Боксер (K и Mixed)<br>Рэйвен (T и Mixed)<br>Уголь (K и Mixed)<br>Лохотрон (T и Mixed)</td>
+	</tr>
+	<tr>
+		<td>In Candescence</td>
+		<td><audio controls><source src="in-candescence.wav" type="audio/wav"></audio></td>
+		<td>Вудрус<br>Лохотрон</td>
 	</tr>
 </table>
