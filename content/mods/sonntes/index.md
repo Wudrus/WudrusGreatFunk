@@ -44,4 +44,9 @@ td {text-align:center;vertical-align:middle}
 		<td><audio controls><source src="hoverkinesis-remix.wav" type="audio/wav"></audio></td>
 		<td>Вудрус<br>Лохотрон</td>
 	</tr>
+	<tr>
+		<td>Caustic Toxic</td>
+		<td>[K]:<audio controls><source src="caustic-toxic-k.wav" type="audio/wav"></audio><br>[T]:<audio controls><source src="caustic-toxic-t.wav" type="audio/wav"></audio><br>[Mixed]:<audio controls><source src="caustic-toxic-m.wav" type="audio/wav"></audio></td>
+		<td>Уголь<br>Кошак (K и Mixed)<br>"Том" (T и Mixed)</td>
+	</tr>
 </table>
