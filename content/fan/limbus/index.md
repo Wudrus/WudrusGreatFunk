@@ -22,4 +22,9 @@ title: Limbus Company
 		<td><audio controls><source src="gamebreaker.wav" type="audio/wav"></audio>
 		<td>Потрошитель Времени и Вудрус</td>
 	</tr>
+	<tr>
+		<td>Endorse</td>
+		<td><audio controls><source src="endorse.wav" type="audio/wav"></audio>
+		<td>Николина и Рэйвен</td>
+	</tr>
 </table>
