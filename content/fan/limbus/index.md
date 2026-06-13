@@ -27,4 +27,9 @@ title: Limbus Company
 		<td><audio controls><source src="endorse.wav" type="audio/wav"></audio>
 		<td>Николина и Рэйвен</td>
 	</tr>
+	<tr>
+		<td>Ravenous</td>
+		<td><audio controls><source src="ravenous.wav" type="audio/wav"></audio>
+		<td>Каллисто, Нео и Вудрус, Валенсина</td>
+	</tr>
 </table>
