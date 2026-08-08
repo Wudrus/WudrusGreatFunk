@@ -1,5 +1,5 @@
 ---
-title: "Friday Night Funkin' Pixels: Sonnets of HUSTLIN'"
+title: "Wudrus' Great Funk - Friday Night Funkin' Pixels: Sonnets of HUSTLIN'"
 ---
 
 Статья о моде - https://fridaynightfunking.fandom.com/wiki/Friday_Night_Funkin%27_Pixels:_Sonnets_of_HUSTLIN%27

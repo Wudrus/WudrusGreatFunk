@@ -1,5 +1,5 @@
 ---
-title: Limbus Company
+title: Wudrus' Great Funk - Limbus Company
 ---
 <table>
 	<tr>
