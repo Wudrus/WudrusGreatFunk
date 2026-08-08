@@ -25,12 +25,12 @@ import { minimatch } from "minimatch"
 type ContentMap = Map<
   FilePath,
   | {
-      type: "markdown"
-      content: ProcessedContent
-    }
+    type: "markdown"
+    content: ProcessedContent
+  }
   | {
-      type: "other"
-    }
+    type: "other"
+  }
 >
 
 type BuildData = {
@@ -143,6 +143,7 @@ async function startWatching(
   }
 
   const watcher = chokidar.watch(".", {
+    awaitWriteFinish: { stabilityThreshold: 250 },
     persistent: true,
     cwd: argv.directory,
     ignoreInitial: true,

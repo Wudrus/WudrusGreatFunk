@@ -5,7 +5,7 @@
   background: none;
   border: none;
   width: 20px;
-  height: 20px;
+  height: 32px;
   margin: 0;
   text-align: inherit;
   flex-shrink: 0;
@@ -22,6 +22,7 @@
 }
 
 :root[reader-mode="on"] {
+
   & .sidebar.left,
   & .sidebar.right {
     opacity: 0;
