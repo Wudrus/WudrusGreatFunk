@@ -11,6 +11,6 @@ title: Wudrus' Great Funk - The Great Interweave of Silence
 	<tr>
 		<td>Deceived</td>
 		<td><audio controls><source src="audio/tgios-deceived.wav" type="audio/wav"></audio></td>
-		<td>Boxser<br>Neo05TV</td>
+		<td>Боксер<br>Нео</td>
 	</tr>
 </table>

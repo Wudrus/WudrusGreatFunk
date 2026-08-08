@@ -3,7 +3,7 @@ title: Wudrus' Great Funk - Основная страница
 ---
 
 
-- **[[tgios/index|TGIOS]]**
+- **[[tgios/index|tGIoS]]**
 
 По модам:
 - [[mods/sonntes/index|Friday Night Funkin' Pixels: Sonnets of HUSTLIN']]

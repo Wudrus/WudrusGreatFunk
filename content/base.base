@@ -1,0 +1,25 @@
+formulas:
+  Песня: file.asLink(file.properties.title)
+  Певцы: file.tags.filter(value.toString().startsWith("#singer"))
+  Сеттинг: file.tags.filter(value.toString().startsWith("#misc/is"))
+  Оригинальный сеттинг: file.tags.filter(value.toString().startsWith("#misc/from"))
+  Количество певцов: file.tags.filter(value.toString().startsWith("#misc/singers"))
+views:
+  - type: table
+    name: Таблица
+    filters:
+      and:
+        - file.ext != "wav"
+        - file.folder != "/"
+        - file.folder != "templates"
+        - file.name != "index"
+    order:
+      - formula.Песня
+      - formula.Певцы
+      - formula.Сеттинг
+      - formula.Оригинальный сеттинг
+      - formula.Количество певцов
+    columnSize:
+      formula.Песня: 145
+      formula.Певцы: 155
+    rowHeight: medium
